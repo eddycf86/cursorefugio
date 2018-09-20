@@ -1,6 +1,6 @@
 # cursorefugio
 Del curso de django de código facilito
-Proyecto Refugio de Mascotas desarrollado para el curso de Django de codigofacilito
+Proyecto Refugio de Mascotas desarrollado por codigofacilito
 
 Requerimiento 
 <p>1.- Python 3.5 </p>
